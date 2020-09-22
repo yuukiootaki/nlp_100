@@ -1,3 +1,7 @@
 numpy
 pandas
 request
+mecab-python3
+nltk
+optuna
+tqdm
