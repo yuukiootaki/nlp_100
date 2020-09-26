@@ -5,3 +5,4 @@ mecab-python3
 nltk
 optuna
 tqdm
+gensim
