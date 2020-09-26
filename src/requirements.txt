@@ -6,3 +6,7 @@ nltk
 optuna
 tqdm
 gensim
+joblib
+scipy
+country_list
+bhtsne
