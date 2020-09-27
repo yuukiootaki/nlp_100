@@ -10,3 +10,4 @@ joblib
 scipy
 country_list
 bhtsne
+torch
